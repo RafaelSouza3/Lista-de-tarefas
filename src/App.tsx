@@ -14,7 +14,7 @@ const App = () => {
     },
     {
       id: 2,
-      name: 'Fazer CÔCÔ',
+      name: 'Fazer tarefas de casa',
       done: true,
     }
   ]);
